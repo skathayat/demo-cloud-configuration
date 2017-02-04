@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Hello1 from the configuration!
+  greeting: Hello2 from the configuration!
