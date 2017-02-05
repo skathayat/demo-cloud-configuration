@@ -4,3 +4,8 @@ server:
   port: 8000
 message:
   greeting: Hello-demo43 from the configuration!
+assure:
+  hostname: "https://sigapp.signicat.net:4443"
+  path: "/std/method"
+  service: "nbidmobile"
+  profile: "New-signicat-profile"
