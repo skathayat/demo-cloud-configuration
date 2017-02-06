@@ -3,7 +3,7 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Hello-demo443 from the configuration!
+  greeting: Hello-demo444 from the configuration!
 assure:
   hostname: "https://sigapp.signicat.net:4443"
   path: "/std/method"
